@@ -25,10 +25,11 @@ If applicable, add screenshots to help explain your problem.
 **Mod Versions (please complete the following information):**
  - Minecraft Forge: [e.g. 14.23.5.2847]
  - HammerLib (HammerCore) [e.g. 2.0.6.19]
- - TerrariaCraft [e.g. 12.2.13]
+ - TerrariaCraft [e.g. 12.2.17]
  - MusicLayer [e.g. 12.2.20]
  - OpenCubicChunks [e.g. 0.0.1055.0]
  - (if installed) ColoredLux [e.g. 12.3.17]
+ - (if installed) Corsair McCUE [e.g. 12.2.5]
  - Optifine Installed: [yes/no] (Only required for visual debugging)
  
  **Hardware & Software info (Might be important in some cases)**
