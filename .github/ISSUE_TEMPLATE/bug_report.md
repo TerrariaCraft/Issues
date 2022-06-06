@@ -7,6 +7,11 @@ assignees: ''
 
 ---
 
+**WARNING!**
+You must fill out the following information in order to receive any help.
+Leaving things "as-is" does not provide us with any useful information.
+This warning may be deleted.
+
 **Describe the bug**
 A clear and concise description of what the bug is.
 
@@ -39,4 +44,4 @@ If applicable, add screenshots to help explain your problem.
  - Java: [e.g. Java 8 Update 231 (64-bit)] (lookup in apps)
 
 **Additional context**
-Add any other context about the problem here. For example, if your game crashes, attach a link to [Pastebin](pastebin.com) with a crash report pasted in there (full crash report, do not strip any part of it, it might be crucial for figuring the issue out!)
+Add any other context about the problem here. For example, if your game crashes, attach a link to [Pastebin](https://pastebin.com) with a crash report pasted in there (full crash report, do not strip any part of it, it might be crucial for figuring the issue out!)
