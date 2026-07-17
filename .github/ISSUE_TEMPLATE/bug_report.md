@@ -7,11 +7,6 @@ assignees: ''
 
 ---
 
-**WARNING!**
-You must fill out the following information in order to receive any help.
-Leaving things "as-is" does not provide us with any useful information.
-This warning may be deleted.
-
 **Describe the bug**
 A clear and concise description of what the bug is.
 
@@ -45,3 +40,8 @@ If applicable, add screenshots to help explain your problem.
 
 **Additional context**
 Add any other context about the problem here. For example, if your game crashes, attach a link to [Pastebin](https://pastebin.com) with a crash report pasted in there (full crash report, do not strip any part of it, it might be crucial for figuring the issue out!)
+
+**Agree to the following**
+- [ ] I am using the most up-to-date public (or early access) version of TerrariaCraft
+- [ ] I have filled out all the releavant information
+- [ ] I did not report a launcher issue to the mod repository (they should be reported to [Launcher/issue](https://github.com/TerrariaCraft/Launcher/issues) repo)
